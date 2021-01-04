@@ -1,0 +1,28 @@
+likes	   	Defines the popularity or support for the source of the document.
+Checkins	Describes how many individuals so far visited this place. This feature is only associated with the places eg:some institution, place, theater etc.
+Returns		Page talking about,Defines the daily interest of individuals towards source of the document/ Post. The people who actually come back to the page, after liking the page. This include activities such as comments, likes to a post, shares, etc by visitors to the page.
+Category	Defines the category of the source of the document eg: place, institution, brand etc.	
+commBase	The total number of comments before selected base date/time.
+comm24		The number of comments in last 24 hours, relative to base date/time.
+comm48		The number of comments in last 48 to last 24 hours relative to base date/time.
+comm24_1	The number of comments in the first 24 hours after the publication of post but before base date/time.
+diff2448	The difference between comm24 and comm48.
+baseTime	Selected time in order to simulate the scenario.
+length		Post length
+shares		Post Share Count
+hrs	  		This describes the H hrs, for which we have the target variable/ comments received
+sun_pub	    post published on sunday
+mon_pub		post published on monday
+tue_pub	 	post published on tuesday
+wed_pub		post published on wednesday
+thu_pub		post published on thursday
+fri_pub		post published on friday
+sat_pub		post published on saturday
+sun_base	This represents the comments on post published on the selected base Date/Time.
+mon_base	This represents the comments on post published on the selected base Date/Time
+tue_base	This represents the comments on post published on the selected base Date/Time
+wed_base	This represents the comments on post published on the selected base Date/Time
+thu_base	This represents the comments on post published on the selected base Date/Time
+fri_base	This represents the comments on post published on the selected base Date/Time
+sat_base	This represents the comments on post published on the selected base Date/Time
+output     The no of comments in next H hrs
